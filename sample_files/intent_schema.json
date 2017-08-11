@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Number",
+          "type": "AMAZON.NUMBER"
+        },
+        {
+          "name": "FactType",
+          "type": "FACT_TYPE"
+        }
+      ],
+      "intent": "NumberFact"
+    }
+  ]
+}

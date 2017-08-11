@@ -1,0 +1,8 @@
+NumberFact tell me a {FactType} fact about {Number}
+
+
+
+*****Custom Slot Type*****
+Type 	       Values
+
+FACT_TYPE 	trivia | math
